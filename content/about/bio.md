@@ -1,8 +1,7 @@
 ---
 title: "About"
-draft: false
-
-headhost: /images/bg.png
+date: 2019-03-26T08:47:11+01:00
+draft: true
 ---
 
 About me
