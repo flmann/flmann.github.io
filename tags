@@ -1,0 +1,183 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/florian/repos/homepage/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+#about a	themes/sourgough-starter/static/css/sourgough.css	/^#about a, #publications a {$/;"	s
+#about a:hover	themes/sourgough-starter/static/css/sourgough.css	/^#about a:hover, #publications a:hover {$/;"	s
+#about i	themes/sourgough-starter/static/css/sourgough.css	/^#about i {$/;"	s
+#navBot a:hover	themes/sourgough-starter/static/css/sourgough.css	/^#navBot a:hover, #navTop a:hover {$/;"	s
+#navTop a:hover	themes/sourgough-starter/static/css/sourgough.css	/^#navBot a:hover, #navTop a:hover {$/;"	s
+#projects img	themes/sourgough-starter/static/css/sourgough.css	/^#projects img {$/;"	s
+#publications a	themes/sourgough-starter/static/css/sourgough.css	/^#about a, #publications a {$/;"	s
+#publications a:hover	themes/sourgough-starter/static/css/sourgough.css	/^#about a:hover, #publications a:hover {$/;"	s
+#publications hr	themes/sourgough-starter/static/css/sourgough.css	/^#publications hr {$/;"	s
+#research	themes/sourgough-starter/static/css/sourgough.css	/^#research {$/;"	i
+#research img	themes/sourgough-starter/static/css/sourgough.css	/^#research img {$/;"	s
+.accent-text	themes/yourfolio/assets/scss/_layout.scss	/^.accent-text {$/;"	c
+.active	themes/yourfolio/assets/scss/critical.scss	/^    &.active {$/;"	c
+.animated	themes/yourfolio/assets/scss/critical.scss	/^.animated {$/;"	c
+.blueish	themes/sourgough-starter/static/css/sourgough.css	/^.blueish {$/;"	c
+.bold-text	themes/yourfolio/assets/scss/_layout.scss	/^.bold-text {$/;"	c
+.bottom	themes/yourfolio/assets/scss/app.scss	/^    .bottom {$/;"	c
+.bottom	themes/yourfolio/assets/scss/app.scss	/^  .bottom {$/;"	c
+.bottom-space	themes/yourfolio/assets/scss/app.scss	/^.bottom-space {$/;"	c
+.break-word	themes/yourfolio/assets/scss/_layout.scss	/^.break-word {$/;"	c
+.burger	themes/yourfolio/assets/scss/app.scss	/^  .burger {$/;"	c
+.burger	themes/yourfolio/assets/scss/app.scss	/^.burger {$/;"	c
+.burger-holder	themes/yourfolio/assets/scss/app.scss	/^.burger-holder {$/;"	c
+.burger-holder	themes/yourfolio/assets/scss/critical.scss	/^    .burger-holder {$/;"	c
+.burger-holder	themes/yourfolio/assets/scss/critical.scss	/^  .burger-holder {$/;"	c
+.category	themes/yourfolio/assets/scss/critical.scss	/^  .category {$/;"	c
+.category	themes/yourfolio/assets/scss/critical.scss	/^.category {$/;"	c
+.clearfix:after	themes/yourfolio/assets/scss/_layout.scss	/^.clearfix:after {$/;"	c
+.container	themes/yourfolio/assets/scss/404.scss	/^.error404 .container,$/;"	c
+.container	themes/yourfolio/assets/scss/critical.scss	/^  .container {$/;"	c
+.default-text	themes/yourfolio/assets/scss/_layout.scss	/^.default-text {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^  .error404 .main-description .img-col {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^  .error404 .main-description h1 {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^  .error404 .main-description img {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^  .error404 .main-description p {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 .container,$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 .header {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 .header,$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-container,$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-description .img-col {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-description h1 {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-description p {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-description {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 .padder {$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 body,$/;"	c
+.error404	themes/yourfolio/assets/scss/404.scss	/^.error404 {$/;"	c
+.fadeIn	themes/yourfolio/assets/scss/critical.scss	/^.fadeIn {$/;"	c
+.fadeInUp	themes/yourfolio/assets/scss/app.scss	/^.fadeInUp {$/;"	c
+.footer	themes/sourgough-starter/static/css/sourgough.css	/^.footer {$/;"	c
+.header	themes/yourfolio/assets/scss/404.scss	/^.error404 .header {$/;"	c
+.header	themes/yourfolio/assets/scss/404.scss	/^.error404 .header,$/;"	c
+.header	themes/yourfolio/assets/scss/app.scss	/^  .header {$/;"	c
+.header	themes/yourfolio/assets/scss/critical.scss	/^.header {$/;"	c
+.img-col	themes/yourfolio/assets/scss/404.scss	/^  .error404 .main-description .img-col {$/;"	c
+.img-col	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-description .img-col {$/;"	c
+.line	themes/yourfolio/assets/scss/critical.scss	/^  &.line {$/;"	c
+.line::before	themes/yourfolio/assets/scss/app.scss	/^.line::before {$/;"	c
+.links	themes/yourfolio/assets/scss/app.scss	/^  .links {$/;"	c
+.links	themes/yourfolio/assets/scss/critical.scss	/^    .links {$/;"	c
+.links	themes/yourfolio/assets/scss/critical.scss	/^  .links {$/;"	c
+.links	themes/yourfolio/assets/scss/critical.scss	/^  .showBurger .links {$/;"	c
+.links	themes/yourfolio/assets/scss/critical.scss	/^.links {$/;"	c
+.logo	themes/yourfolio/assets/scss/app.scss	/^  .logo img {$/;"	c
+.logo	themes/yourfolio/assets/scss/critical.scss	/^.logo {$/;"	c
+.main-container	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-container,$/;"	c
+.main-description	themes/yourfolio/assets/scss/404.scss	/^  .error404 .main-description .img-col {$/;"	c
+.main-description	themes/yourfolio/assets/scss/404.scss	/^  .error404 .main-description h1 {$/;"	c
+.main-description	themes/yourfolio/assets/scss/404.scss	/^  .error404 .main-description img {$/;"	c
+.main-description	themes/yourfolio/assets/scss/404.scss	/^  .error404 .main-description p {$/;"	c
+.main-description	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-description .img-col {$/;"	c
+.main-description	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-description h1 {$/;"	c
+.main-description	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-description p {$/;"	c
+.main-description	themes/yourfolio/assets/scss/404.scss	/^.error404 .main-description {$/;"	c
+.main-description	themes/yourfolio/assets/scss/critical.scss	/^  .main-description {$/;"	c
+.main-description	themes/yourfolio/assets/scss/critical.scss	/^.main-description {$/;"	c
+.middle	themes/yourfolio/assets/scss/app.scss	/^    .middle {$/;"	c
+.middle	themes/yourfolio/assets/scss/app.scss	/^  .middle {$/;"	c
+.nav-container	themes/yourfolio/assets/scss/app.scss	/^  .nav-container {$/;"	c
+.nav-container	themes/yourfolio/assets/scss/critical.scss	/^.nav-container,$/;"	c
+.navbar	themes/sourgough-starter/static/css/sourgough.css	/^.navbar {$/;"	c
+.navbar	themes/yourfolio/assets/scss/app.scss	/^  .navbar {$/;"	c
+.navbar	themes/yourfolio/assets/scss/critical.scss	/^.navbar {$/;"	c
+.padder	themes/yourfolio/assets/scss/404.scss	/^.error404 .padder {$/;"	c
+.padder	themes/yourfolio/assets/scss/_layout.scss	/^.padder {$/;"	c
+.project	themes/yourfolio/assets/scss/app.scss	/^  .project {$/;"	c
+.project	themes/yourfolio/assets/scss/app.scss	/^.project {$/;"	c
+.project-title	themes/yourfolio/assets/scss/app.scss	/^  .project-title {$/;"	c
+.projects	themes/yourfolio/assets/scss/app.scss	/^  .projects {$/;"	c
+.projects	themes/yourfolio/assets/scss/app.scss	/^.projects {$/;"	c
+.projects	themes/yourfolio/assets/scss/critical.scss	/^  .projects {$/;"	c
+.short-col	themes/yourfolio/assets/scss/app.scss	/^  .short-col {$/;"	c
+.show-burger-menu	themes/yourfolio/assets/scss/app.scss	/^.show-burger-menu {$/;"	c
+.showBurger	themes/yourfolio/assets/scss/critical.scss	/^  .showBurger .links {$/;"	c
+.showBurger	themes/yourfolio/assets/scss/critical.scss	/^  .showBurger {$/;"	c
+.slideInDown	themes/yourfolio/assets/scss/critical.scss	/^.slideInDown {$/;"	c
+.sticky-navigation	themes/yourfolio/assets/scss/app.scss	/^.sticky-navigation {$/;"	c
+.top	themes/yourfolio/assets/scss/app.scss	/^    .top {$/;"	c
+.top	themes/yourfolio/assets/scss/app.scss	/^  .top {$/;"	c
+.transparent	themes/yourfolio/assets/scss/_layout.scss	/^.transparent {$/;"	c
+.type	themes/sourgough-starter/static/css/sourgough.css	/^.type {$/;"	c
+.wide-col	themes/yourfolio/assets/scss/app.scss	/^  .wide-col {$/;"	c
+.year	themes/sourgough-starter/static/css/sourgough.css	/^.year {$/;"	c
+:root	themes/sourgough-starter/static/css/sourgough.css	/^:root { $/;"	s
+AnonymousFunction67fb5d8b0100	themes/yourfolio/assets/js/app.js	/^    burger.addEventListener('click', function() {$/;"	f
+App	themes/yourfolio/assets/js/app.js	/^var App = {$/;"	c
+Built With	themes/sourgough-starter/README.md	/^## Built With $/;"	s	chapter:Sourgough Starter
+Built and Maintained By	themes/sourgough-starter/README.md	/^## Built and Maintained By$/;"	s	chapter:Sourgough Starter
+Check the website	themes/yourfolio/README.md	/^## Check the website$/;"	s	chapter:Yourfolio
+Clone this theme into themes	themes/sourgough-starter/README.md	/^###### Clone this theme into themes$/;"	u	section:Sourgough Starter""How to Use
+Create Site	themes/sourgough-starter/README.md	/^###### Create Site $/;"	u	section:Sourgough Starter""How to Use
+Credits	themes/yourfolio/README.md	/^## Credits$/;"	s	chapter:Yourfolio
+Data	resources/_gen/assets/scss/scss/app.scss_8e52c06f6ef1acad1d978805fe8366a2.json	/^{"Target":"css\/app.css","MediaType":"text\/css","Data":{}}/;"	o
+Data	resources/_gen/assets/scss/scss/critical.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"scss\/critical.css","MediaType":"text\/css","Data":{}}/;"	o
+Data	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/404.scss_48b060fe05b0a273d182ef83c0605941.json	/^{"Target":"scss\/404.min.c3f767bb3c48437e9af2323c32e912458ef1ce2b68b056a525d4dd4815b2f1bb.css","/;"	o
+Data	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/app.scss_cf77da1f4ca537338a3eb28dc8a2d96c.json	/^{"Target":"css\/app.min.7198109ac32fcbdb993ce58a17e7eee03ca3bfdde049cc25b23db8e7bcbf2497.css","M/;"	o
+Data	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/critical.scss_48b060fe05b0a273d182ef83c0605941.json	/^{"Target":"scss\/critical.min.35a71281ac6831271713644d2512debe60ed6a2cde4b1650b2d4b4d9bbc775a5.c/;"	o
+Edit `sitename/config.toml`	themes/sourgough-starter/README.md	/^###### Edit `sitename\/config.toml`$/;"	u	section:Sourgough Starter""How to Use
+Getting started	themes/yourfolio/README.md	/^## Getting started$/;"	s	chapter:Yourfolio
+How to Use	themes/sourgough-starter/README.md	/^## How to Use$/;"	s	chapter:Sourgough Starter
+Install [hugo](https://gohugo.io)	themes/sourgough-starter/README.md	/^###### Install [hugo](https:\/\/gohugo.io)$/;"	u	section:Sourgough Starter""How to Use
+Installation	themes/yourfolio/README.md	/^## Installation$/;"	s	chapter:Yourfolio
+Integrity	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/404.scss_48b060fe05b0a273d182ef83c0605941.json	/^{"Target":"scss\/404.min.c3f767bb3c48437e9af2323c32e912458ef1ce2b68b056a525d4dd4815b2f1bb.css","/;"	s	object:Data
+Integrity	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/app.scss_cf77da1f4ca537338a3eb28dc8a2d96c.json	/^{"Target":"css\/app.min.7198109ac32fcbdb993ce58a17e7eee03ca3bfdde049cc25b23db8e7bcbf2497.css","M/;"	s	object:Data
+Integrity	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/critical.scss_48b060fe05b0a273d182ef83c0605941.json	/^{"Target":"scss\/critical.min.35a71281ac6831271713644d2512debe60ed6a2cde4b1650b2d4b4d9bbc775a5.c/;"	s	object:Data
+MediaType	resources/_gen/assets/scss/scss/app.scss_8e52c06f6ef1acad1d978805fe8366a2.json	/^{"Target":"css\/app.css","MediaType":"text\/css","Data":{}}/;"	s
+MediaType	resources/_gen/assets/scss/scss/critical.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"scss\/critical.css","MediaType":"text\/css","Data":{}}/;"	s
+MediaType	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/404.scss_48b060fe05b0a273d182ef83c0605941.json	/^{"Target":"scss\/404.min.c3f767bb3c48437e9af2323c32e912458ef1ce2b68b056a525d4dd4815b2f1bb.css","/;"	s
+MediaType	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/app.scss_cf77da1f4ca537338a3eb28dc8a2d96c.json	/^{"Target":"css\/app.min.7198109ac32fcbdb993ce58a17e7eee03ca3bfdde049cc25b23db8e7bcbf2497.css","M/;"	s
+MediaType	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/critical.scss_48b060fe05b0a273d182ef83c0605941.json	/^{"Target":"scss\/critical.min.35a71281ac6831271713644d2512debe60ed6a2cde4b1650b2d4b4d9bbc775a5.c/;"	s
+Oops! Nothing found.	themes/yourfolio/layouts/404.html	/^              <h1 class="break-word">Oops! Nothing found.<\/h1>$/;"	h
+Sourgough Starter	themes/sourgough-starter/README.md	/^# Sourgough Starter$/;"	c
+Target	resources/_gen/assets/scss/scss/app.scss_8e52c06f6ef1acad1d978805fe8366a2.json	/^{"Target":"css\/app.css","MediaType":"text\/css","Data":{}}/;"	s
+Target	resources/_gen/assets/scss/scss/critical.scss_f300667da4f5b5f84e1a9e0702b2fdde.json	/^{"Target":"scss\/critical.css","MediaType":"text\/css","Data":{}}/;"	s
+Target	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/404.scss_48b060fe05b0a273d182ef83c0605941.json	/^{"Target":"scss\/404.min.c3f767bb3c48437e9af2323c32e912458ef1ce2b68b056a525d4dd4815b2f1bb.css","/;"	s
+Target	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/app.scss_cf77da1f4ca537338a3eb28dc8a2d96c.json	/^{"Target":"css\/app.min.7198109ac32fcbdb993ce58a17e7eee03ca3bfdde049cc25b23db8e7bcbf2497.css","M/;"	s
+Target	themes/yourfolio/exampleSite/resources/_gen/assets/scss/scss/critical.scss_48b060fe05b0a273d182ef83c0605941.json	/^{"Target":"scss\/critical.min.35a71281ac6831271713644d2512debe60ed6a2cde4b1650b2d4b4d9bbc775a5.c/;"	s
+Use	themes/sourgough-starter/README.md	/^###### Use$/;"	u	section:Sourgough Starter""How to Use
+Yourfolio	themes/yourfolio/README.md	/^# Yourfolio$/;"	c
+about	themes/sourgough-starter/layouts/about/list.html	/^    <div class="container" id="about">$/;"	I
+about	themes/sourgough-starter/layouts/about/list.html	/^<div class="container" id="about">$/;"	I
+about	themes/sourgough-starter/layouts/projects/list.html	/^  <div class="container" id="about">$/;"	I
+accent-color	themes/yourfolio/assets/scss/_vars.scss	/^$accent-color: #224afa;$/;"	v
+accent-hover-color	themes/yourfolio/assets/scss/_vars.scss	/^$accent-hover-color: #1538d1;$/;"	v
+background-color	themes/yourfolio/assets/scss/_vars.scss	/^$background-color: $white-color;$/;"	v
+border-color	themes/yourfolio/assets/scss/_vars.scss	/^$border-color: #ebebeb;$/;"	v
+burger-color	themes/yourfolio/assets/scss/_vars.scss	/^$burger-color: #171616;$/;"	v
+carouselExamplesIndicators	themes/sourgough-starter/layouts/about/list.html	/^                    <div id="carouselExamplesIndicators"$/;"	I
+content	themes/sourgough-starter/layouts/_default/baseof.html	/^        <div id="content">$/;"	I
+deferredCss	themes/yourfolio/layouts/partials/head-includes.html	/^<noscript id="deferredCss">$/;"	I
+exampleModalLongTitle	themes/sourgough-starter/layouts/projects/list.html	/^                id="exampleModalLongTitle">{{.Title}}<\/h5>$/;"	I
+group-text-color	themes/yourfolio/assets/scss/_vars.scss	/^$group-text-color: #989898;$/;"	v
+header-shadow-color	themes/yourfolio/assets/scss/_vars.scss	/^$header-shadow-color: rgba(1, 1, 1, .1);/;"	v
+hero-color	themes/yourfolio/assets/scss/_vars.scss	/^$hero-color: #f1f1f1;$/;"	v
+init	themes/yourfolio/assets/js/app.js	/^  init: function() {$/;"	m	class:App
+initBurgerHandler	themes/yourfolio/assets/js/app.js	/^  initBurgerHandler: function() {$/;"	m	class:App
+initFadeInProjects	themes/yourfolio/assets/js/app.js	/^  initFadeInProjects: function(projects) {$/;"	m	class:App
+navBot	themes/sourgough-starter/layouts/partials/header.html	/^  <nav id="navBot" class="navbar navbar-light navbar-expand fixed-bottom" style="background: #ff/;"	I
+navTop	themes/sourgough-starter/layouts/partials/header.html	/^<nav id="navTop"class="navbar navbar-expand-md navbar-light sticky-top">$/;"	I
+navbarSupportedContent	themes/sourgough-starter/layouts/partials/header.html	/^    <div class="collapse navbar-collapse" id="navbarSupportedContent">$/;"	I
+projects	themes/sourgough-starter/layouts/projects/list.html	/^12px;text-align: center;" id="projects">$/;"	I
+publications	themes/sourgough-starter/layouts/publications/list.html	/^<div class="container" id="publications" style="width: 80%;">$/;"	I
+stickyNavigationHandler	themes/yourfolio/assets/js/app.js	/^  stickyNavigationHandler: function() {$/;"	m	class:App
+text-color	themes/yourfolio/assets/scss/_vars.scss	/^$text-color: #2f2f2f;$/;"	v
+text-font	themes/yourfolio/assets/scss/_vars.scss	/^$text-font: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;$/;"	v
+tile-text-hover-color	themes/yourfolio/assets/scss/_vars.scss	/^$tile-text-hover-color: $white-color;$/;"	v
+updateNavigationView	themes/yourfolio/assets/js/app.js	/^    var updateNavigationView = function() {$/;"	f	function:App.stickyNavigationHandler
+updateProjectsView	themes/yourfolio/assets/js/app.js	/^    var updateProjectsView = function() {$/;"	f	function:App.initFadeInProjects
+white-color	themes/yourfolio/assets/scss/_vars.scss	/^$white-color: #ffffff;$/;"	v
+{{ .Title | markdownify }}	themes/sourgough-starter/layouts/about/list.html	/^                        <h1>{{ .Title | markdownify }}<\/h1>$/;"	h
+{{ .Title | markdownify }}	themes/sourgough-starter/layouts/about/list.html	/^                    <h1>{{ .Title | markdownify }}<\/h1>$/;"	h
+{{ .Title | markdownify}}	themes/sourgough-starter/layouts/_default/single.html	/^  <h1>{{ .Title | markdownify}}<\/h1>$/;"	h
+{{- . | safeHTML -}}	themes/yourfolio/layouts/partials/header.html	/^          <h1 class="break-word">{{- . | safeHTML -}}<\/h1>$/;"	h
